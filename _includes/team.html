@@ -1,0 +1,26 @@
+<section id="team">
+    <div class="container">
+        <h1>Leadership Team</h1>
+
+        <div class="row">
+
+            {% for member in site.team %}
+
+                <div class="col-lg-4 col-sm-6 col-xs-12 text-center">
+                    <img class="face img-circle img-responsive img-center" src="{{ member.photo }}" alt="">
+                    <h3>{{ member.name }}</h3>
+                    <p>{{ member.title }}
+                        <br/>
+                        {% if member.subtitle %}
+                            {{ member.subtitle }}
+                        {% endif %}
+                    </p>
+                </div>
+
+            {% endfor %}
+
+        </div>  <!-- End row div -->
+
+
+    </div>
+</section>

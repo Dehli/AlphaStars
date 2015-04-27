@@ -1,0 +1,56 @@
+# Site settings
+title: Alpha Stars
+description: "Insert Alpha Stars description!"
+
+# Navbar links
+navbarlinks:
+    - name: about
+    - name: projects
+    - name: schedule
+    - name: team
+    - name: contact
+
+# Team Members
+team:
+  - name: Benjamin Marasco
+    photo: https://cloud.githubusercontent.com/assets/5856011/7353009/689cc704-ecde-11e4-87fc-28bd09faa952.png
+    title: Program Manager
+    subtitle: Entrepreneurship
+    bio: In 2014 and 2015 Benjamin won two elevator pitch and two business plan competitions. Benjamin has published investment articles across the web and is currently conducting due diligence and gathering pre-sale research for his business idea CareFinder.  At the age of 19 Benjamin was diagnosed with thyroid cancer.  Even though he continued his swim season, by God’s blessing Benjamin was able to fully recover.  He now speaks about the experience and has shared with groups up to sizes of 1,000+.
+
+  - name: Christian Dehli
+    photo: https://avatars0.githubusercontent.com/u/5856011
+    title: Program Manager
+    subtitle: Computer Science & Engineering
+    bio: Insert blurb for CP...
+
+  - name: David Post
+    photo: https://cloud.githubusercontent.com/assets/5856011/7353011/6bd9ea78-ecde-11e4-8ecf-04c1ff71e558.png
+    title: Program Manager
+    subtitle: Finance & Investing
+    bio: David has three ultimate goals — to Serve, to Build, and to Teach. He is currently working on his first goal, to serve, training as a Navigator for the United States Air Force in Pensacola, FL.  David has published numerous articles to sites like The Motley Fool, Seeking Alpha, Yahoo! Finance, CNN Money, and Nasdaq.com, and he is currently building a niche tech business.
+
+  - name: Brendan Marasco
+    photo: http://placehold.it/200x200
+    title: Program Director
+    bio: Insert blurb for Brendan...
+
+  - name: Christopher Marasco
+    photo: https://cloud.githubusercontent.com/assets/5856011/7353007/671b9036-ecde-11e4-8420-236ca2bac669.jpg
+    title: Program Director
+    bio: Insert blurb for Chris...
+
+# Schedule
+schedule:
+  - date: May 4
+    event: Application Deadline
+
+  - date: May 18
+    event: Start Date
+
+  - date: August 14
+    event: End Date
+
+# Build settings
+markdown: kramdown
+permalink: pretty
