@@ -22,7 +22,7 @@ team:
     photo: https://avatars0.githubusercontent.com/u/5856011
     title: Program Manager
     subtitle: Computer Science & Engineering
-    bio: Insert blurb for CP...
+    bio: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
   - name: David Post
     photo: https://cloud.githubusercontent.com/assets/5856011/7353011/6bd9ea78-ecde-11e4-8ecf-04c1ff71e558.png
@@ -33,12 +33,12 @@ team:
   - name: Brendan Marasco
     photo: http://placehold.it/200x200
     title: Program Director
-    bio: Insert blurb for Brendan...
+    bio: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
   - name: Christopher Marasco
     photo: https://cloud.githubusercontent.com/assets/5856011/7353007/671b9036-ecde-11e4-8420-236ca2bac669.jpg
     title: Program Director
-    bio: Insert blurb for Chris...
+    bio: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 # Schedule
 schedule:

@@ -2,25 +2,27 @@
     <div class="container">
         <h1>Leadership Team</h1>
 
-        <div class="row">
+        {% for member in site.team %}
 
-            {% for member in site.team %}
+            <div class="row">
 
-                <div class="col-lg-4 col-sm-6 col-xs-12 text-center">
+                <div class="col-lg-4 col-sm-12 col-xs-12">
                     <img class="face img-circle img-responsive img-center" src="{{ member.photo }}" alt="">
-                    <h3>{{ member.name }}</h3>
-                    <p>{{ member.title }}
-                        <br/>
-                        {% if member.subtitle %}
-                            {{ member.subtitle }}
-                        {% endif %}
-                    </p>
                 </div>
+                <div class="col-lg-8 col-sm-12 col-xs-12">
+                    <h3>{{ member.name }}</h3>
+                        <p>{{ member.title }}
+                            {% if member.subtitle %}
+                                - {{ member.subtitle }}
+                            {% endif %}
+                        </p>
+                        <p>
+                            {{ member.bio }}
+                        </p>
+                </div>
+            </div>
 
-            {% endfor %}
-
-        </div>  <!-- End row div -->
-
+        {% endfor %}
 
     </div>
 </section>
