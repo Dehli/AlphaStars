@@ -9,17 +9,19 @@
                 <div class="col-lg-4 col-sm-12 col-xs-12">
                     <img class="face img-circle img-responsive img-center" src="{{ member.photo }}" alt="">
                 </div>
+
                 <div class="col-lg-8 col-sm-12 col-xs-12">
                     <h3>{{ member.name }}</h3>
-                        <p>{{ member.title }}
-                            {% if member.subtitle %}
-                                - {{ member.subtitle }}
-                            {% endif %}
-                        </p>
-                        <p>
-                            {{ member.bio }}
-                        </p>
+                    <p>{{ member.title }}
+                        {% if member.subtitle %}
+                            - {{ member.subtitle }}
+                        {% endif %}
+                    </p>
+                    <p>
+                        {{ member.bio }}
+                    </p>
                 </div>
+
             </div>
 
         {% endfor %}
