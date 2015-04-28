@@ -5,10 +5,10 @@ description: "Insert Alpha Stars description!"
 # Navbar links
 navbarlinks:
     - name: about
-    - name: projects
-    - name: articles
     - name: schedule
     - name: team
+    - name: projects
+    - name: articles
 
 # Team Members
 team:
