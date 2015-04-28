@@ -8,7 +8,6 @@ navbarlinks:
     - name: projects
     - name: schedule
     - name: team
-    - name: contact
 
 # Team Members
 team:
@@ -31,14 +30,14 @@ team:
     bio: David has three ultimate goals — to Serve, to Build, and to Teach. He is currently working on his first goal, to serve, training as a Navigator for the United States Air Force in Pensacola, FL.  David has published numerous articles to sites like The Motley Fool, Seeking Alpha, Yahoo! Finance, CNN Money, and Nasdaq.com, and he is currently building a niche tech business.
 
   - name: Brendan Marasco
-    photo: http://placehold.it/200x200
+    photo: https://cloud.githubusercontent.com/assets/5856011/7361662/8012764e-ed2a-11e4-8eaa-503194f61e7c.JPG
     title: Program Director
-    bio: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    bio: Brendan is the Program Director at Alpha Stars, helping drive the overall direction and strategy of the program.  Before switching over to industry Brendan worked in the PE and advising space, helping to identify opportunities and helping to value assets including a South American oil producer, a medical device manufacturer, and a mid-sized grocery chain.  Brendan also met the United States President at the White House as part of a leadership conference where he was interviewed by national broadcasters. Brendan published over 80 articles to sites like CNN Money, Yahoo! Finance, Google Finance, Morningstar, and Nasdaq.com via Seeking Alpha and The Motley Fool.
 
   - name: Christopher Marasco
     photo: https://cloud.githubusercontent.com/assets/5856011/7353007/671b9036-ecde-11e4-8420-236ca2bac669.jpg
     title: Program Director
-    bio: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    bio: Chris founded the Alpha Stars Summer Analyst Program in 2013 in order to help cultivate the hard and soft skills of people already motivated and ambitious.  Chris works in Sales & Trading for a large bank and previously worked as the Director of Business Development for an economics firm in Washington, DC.  Chris also co-founded a small company and helped sell it.  Over 1.5 million people have read the 300+ investment articles that Chris has written or helped to publish across the web, with up to 40,000 page views per article.  Chris sits on Grove City College’s Alumni Council Finance Development Committee and is on the board of ARCH Accessories, a firearms manufacturing and design firm with a pending patent.
 
 # Schedule
 schedule:
