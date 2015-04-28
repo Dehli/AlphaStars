@@ -8,8 +8,21 @@ body {
     margin: 60px 0px;
 }
 
-h1, h2, h3 {
+h1 {
+    font-size: $title-font-size;
+    text-shadow: 3px 3px #B0B0B0;
+}
+
+h2 {
     color: $color-primary;
+}
+
+.main-color {
+    color: $color-primary;
+}
+
+.un-strong {
+    font-weight: normal;
 }
 
 .footer {
@@ -22,6 +35,10 @@ h1, h2, h3 {
 
 p, li, td {
     font-size: $base-font-size;
+}
+
+li {
+    margin-top: 10px;
 }
 
 section {
