@@ -12,11 +12,15 @@ navbarlinks:
 
 # Team Members
 team:
-  - name: Benjamin Marasco
-    photo: https://cloud.githubusercontent.com/assets/5856011/7376380/68b5dc6a-edad-11e4-9095-78370668738e.png
-    title: Program Manager
-    subtitle: Entrepreneurship
-    bio: In 2014 and 2015 Benjamin won two elevator pitch and two business plan competitions. Benjamin has published investment articles across the web and is currently conducting due diligence and gathering pre-sale research for his business idea CareFinder.  At the age of 19 Benjamin was diagnosed with thyroid cancer.  Even though he continued his swim season, by God’s blessing Benjamin was able to fully recover.  He now speaks about the experience and has shared with groups up to sizes of 1,000+.
+  - name: Christopher Marasco
+    photo: https://cloud.githubusercontent.com/assets/5856011/7353007/671b9036-ecde-11e4-8420-236ca2bac669.jpg
+    title: Program Director
+    bio: Chris founded the Alpha Stars Summer Analyst Program in 2013 in order to help cultivate the hard and soft skills of people already motivated and ambitious.  Chris works in Sales & Trading for a large bank and previously worked as the Director of Business Development for an economics firm in Washington, DC.  Chris also co-founded a small company and helped sell it.  Over 1.5 million people have read the 300+ investment articles that Chris has written or helped to publish across the web, with up to 40,000 page views per article.  Chris sits on Grove City College’s Alumni Council Finance Development Committee and is on the board of ARCH Accessories, a firearms manufacturing and design firm with a pending patent.
+
+  - name: Brendan Marasco
+    photo: https://cloud.githubusercontent.com/assets/5856011/7361662/8012764e-ed2a-11e4-8eaa-503194f61e7c.JPG
+    title: Program Director
+    bio: Brendan helps drive the overall direction and strategy of the Alpha Stars Program. Before switching over to industry Brendan worked in the private equity and advising space. In that role, he helped identify opportunities and value assets including a South American oil producer, a medical device manufacturer, and a mid-sized grocery chain. Brendan published over 80 articles to sites like CNN Money, Yahoo! Finance, Google Finance, Morningstar, and Nasdaq.com via Seeking Alpha and The Motley Fool. Brendan is a board member of One Mission Society, a global non-profit mission organization.
 
   - name: Christian Dehli
     photo: https://avatars0.githubusercontent.com/u/5856011
@@ -24,21 +28,17 @@ team:
     subtitle: Computer Science & Engineering
     bio: Christian is pursuing his Masters of Computer Science through Georgia Tech. He actively contributes to StackOverflow, Github, and enjoys participating in hackathons. He has created several mobile apps including Sneeki, an app that reached the top 200 in the United States. He's currently working on a new social networking application.
 
+  - name: Benjamin Marasco
+    photo: https://cloud.githubusercontent.com/assets/5856011/7376380/68b5dc6a-edad-11e4-9095-78370668738e.png
+    title: Program Manager
+    subtitle: Entrepreneurship
+    bio: In 2014 and 2015 Benjamin won two elevator pitch and two business plan competitions. Benjamin has published investment articles across the web and is currently conducting due diligence and gathering pre-sale research for his business idea CareFinder.  At the age of 19 Benjamin was diagnosed with thyroid cancer.  Even though he continued his swim season, by God’s blessing Benjamin was able to fully recover.  He now speaks about the experience and has shared with groups up to sizes of 1,000+.
+
   - name: David Post
     photo: https://cloud.githubusercontent.com/assets/5856011/7362281/797c458a-ed34-11e4-9f37-9faa68a1e0f6.JPG
     title: Program Manager
     subtitle: Finance & Investing
     bio: David has three ultimate goals — to Serve, to Build, and to Teach. He is currently working on his first goal, to serve, training as a Navigator for the United States Air Force in Pensacola, FL.  David has published numerous articles to sites like The Motley Fool, Seeking Alpha, Yahoo! Finance, CNN Money, and Nasdaq.com, and he is currently building a niche tech business.
-
-  - name: Brendan Marasco
-    photo: https://cloud.githubusercontent.com/assets/5856011/7361662/8012764e-ed2a-11e4-8eaa-503194f61e7c.JPG
-    title: Program Director
-    bio: Brendan helps drive the overall direction and strategy of the Alpha Stars Program.  Before switching over to industry Brendan worked in the private equity and advising space, helping to identify opportunities and helping to value assets including a South American oil producer, a medical device manufacturer, and a mid-sized grocery chain. Brendan also met the United States President at the White House as part of a leadership conference where he was interviewed by national broadcasters. Brendan published over 80 articles to sites like CNN Money, Yahoo! Finance, Google Finance, Morningstar, and Nasdaq.com via Seeking Alpha and The Motley Fool.
-
-  - name: Christopher Marasco
-    photo: https://cloud.githubusercontent.com/assets/5856011/7353007/671b9036-ecde-11e4-8420-236ca2bac669.jpg
-    title: Program Director
-    bio: Chris founded the Alpha Stars Summer Analyst Program in 2013 in order to help cultivate the hard and soft skills of people already motivated and ambitious.  Chris works in Sales & Trading for a large bank and previously worked as the Director of Business Development for an economics firm in Washington, DC.  Chris also co-founded a small company and helped sell it.  Over 1.5 million people have read the 300+ investment articles that Chris has written or helped to publish across the web, with up to 40,000 page views per article.  Chris sits on Grove City College’s Alumni Council Finance Development Committee and is on the board of ARCH Accessories, a firearms manufacturing and design firm with a pending patent.
 
 # Schedule
 schedule:
